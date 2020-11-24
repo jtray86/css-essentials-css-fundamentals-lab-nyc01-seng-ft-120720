@@ -38,6 +38,8 @@ div{
   float:left;
   background-color: rgb(52, 235, 201);
   text-align: center;
-  width: 25%
+  width: 25%;
+  margin-left: auto;
+  margin-right: auto
   
 }
