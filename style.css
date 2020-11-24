@@ -32,7 +32,9 @@ p{
   text-align: center;
   width:800px;
 }
-
+#details{
+  text-align: center
+}
 div{
   display: block;
   float:left;
