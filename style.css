@@ -8,13 +8,15 @@ h1{
 }
 nav{
   text-align: center
-  
-}
-a {
   padding-left: 10px
   padding-right: 10px
   background: rgb(204, 252, 241)
 }
+/*a {
+  padding-left: 10px
+  padding-right: 10px
+  background: rgb(204, 252, 241)
+}*/
 section#featured-property{
   text-align: center
 }
