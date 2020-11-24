@@ -33,8 +33,9 @@ p{
   width:800px;
 }
 #details{
-  display: block
-}
-#details div{
+  display: block;
   float: left 
 }
+/*#details div{
+  float: left 
+}*/
