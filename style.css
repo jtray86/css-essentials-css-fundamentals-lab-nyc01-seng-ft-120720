@@ -18,6 +18,7 @@ nav a {
   text-align: center
 }
 #featured-property p{
+  position: absolute;
   text-align: center;
   width:800px
 }
