@@ -32,10 +32,8 @@ p{
   text-align: center;
   width:800px;
 }
+
 #details{
-  text-align: center
-}
-div{
   display: block;
   float:left;
   background-color: rgb(52, 235, 201);
