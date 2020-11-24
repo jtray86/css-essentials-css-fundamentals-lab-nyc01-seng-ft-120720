@@ -34,9 +34,10 @@ p{
 }
 #details{
   display: block;
-  background-color: rgb(52, 235, 201)
+  
   
 }
 div{
-  float: left 
+  float: left; 
+  background-color: rgb(52, 235, 201)
 }
