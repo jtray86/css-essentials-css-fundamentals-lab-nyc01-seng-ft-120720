@@ -14,10 +14,12 @@ nav a {
   padding-right: 10px;
   background: rgb(204, 252, 241)
 }
-#featured-property{
-  text-align:center
+figcaption{
+  
+}
+
 }
 #featured-property p{
-  
+  text-align: center
   width:800px
 }
