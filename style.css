@@ -39,7 +39,8 @@ div{
   display: block;
   float:left;
   background-color: rgb(52, 235, 201);
+  width: 25%;
   text-align: center;
-  width: 25%
+ 
   
 }
