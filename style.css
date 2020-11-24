@@ -15,7 +15,9 @@ nav a {
   background: rgb(204, 252, 241)
 }
 img {
-  :center
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 figcaption{
