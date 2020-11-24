@@ -36,6 +36,9 @@ p{
 #details{
   display: block;
   float:left;
+}
+div{
+
   background-color: rgb(52, 235, 201);
   width: 25%;
   text-align: center;
